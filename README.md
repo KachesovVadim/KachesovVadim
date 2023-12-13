@@ -1,25 +1,22 @@
-![Безымянный-2](https://github.com/KachesovVadim/KachesovVadim/assets/142095950/80e16969-f0b8-44cc-8382-c7c0e1fbb0d4)
+
 
 ### Hey, Bro 👋
 **Welcome to my GitHub profile!** My name is Vadim Káchesov. 😄 I am a programmer from Russia. 
 
 Now I'm freelancing and take orders. My credo is Unreal Engine & C++. 💯 
 
-![Безымянный-22](https://github.com/KachesovVadim/KachesovVadim/assets/142095950/8b58556f-051f-4553-90b9-a8c414e4064e)
 
+## The skills
 
-## My skills
-<!-- 
-<img src="" />
--->
-<img src="https://img.shields.io/badge/languages%20i%20know-8A2BE2" />  
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> 
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=green)&nbsp;
+![Python](https://img.shields.io/badge/python-brightgreen?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
-## My projects
+## The projects
 
-💥 UNREAL ENGINE 💥
+💥<img src="https://img.shields.io/badge/UNREAL%20ENGINE-8A2BE2" /> 💥
+<!--💥 UNREAL ENGINE 💥 -->
 
 - [Superindustry](https://github.com/KachesovVadim/Superindustry) 
 - [UE Ball](https://github.com/KachesovVadim/UE_Ball)
