@@ -3,7 +3,10 @@
 ### Hey, Bro 👋
 **Welcome to my GitHub profile!** My name is Vadim Káchesov. 😄 I am a programmer from Russia. 
 
-Now I'm freelancing and take orders. My credo is Unreal Engine & C++. 💯 
+**In short, about me.**
+I've been studying programming for **four** years. Freelancing is the best thing for me right now. =)
+
+Now I take orders from customers and from the freelance exchange. My **credo** is everything related to **gamedev**. 💯 
 
 
 ## The skills
