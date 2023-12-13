@@ -5,6 +5,9 @@
 
 Now I'm freelancing and take orders. My credo is Unreal Engine & C++. 💯 
 
+![Безымянный-2](https://github.com/KachesovVadim/KachesovVadim/assets/142095950/e169b55a-7df9-4d65-b030-c03931727622)
+
+
 ## My skills
 <!-- 
 <img src="" />
