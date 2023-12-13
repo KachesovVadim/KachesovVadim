@@ -8,14 +8,14 @@ Now I'm freelancing and take orders. My credo is Unreal Engine & C++. 💯
 
 ## The skills
 
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=green)&nbsp;
-![Python](https://img.shields.io/badge/python-brightgreen?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Unreal Engine](https://img.shields.io/badge/unrealengine-purple.svg?style=for-the-badge&logo=unrealengine&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/c++-mediumvioletred.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/c%23-mediumvioletred.svg?style=for-the-badge&logo=c-sharp&logoColor=green)&nbsp;
+![Python](https://img.shields.io/badge/python-lightseagreen?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 ## The projects
 
-💥<img src="https://img.shields.io/badge/UNREAL%20ENGINE-8A2BE2" /> 💥
+💥<img src="https://img.shields.io/badge/UNREAL%20ENGINE-purple" /> 💥
 <!--💥 UNREAL ENGINE 💥 -->
 
 - [Superindustry](https://github.com/KachesovVadim/Superindustry) 
