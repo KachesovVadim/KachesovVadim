@@ -30,6 +30,7 @@ Now I take orders from customers and from the freelance exchange. My **credo** i
 💢 C++ | C# 💢
 
 - [Tsunamiforce](https://github.com/KachesovVadim/Tsunamiforce)
+- [Avento Gears](https://github.com/KachesovVadim/AventoGears)
 
 💯 Python 💯
 
