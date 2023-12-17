@@ -8,6 +8,10 @@ I've been studying programming for **four** years. Freelancing is the best thing
 
 Now I take orders from customers and from the freelance exchange. My **credo** is everything related to **gamedev**. 💯 
 
+[![tg](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Jackson_Lighthouse)
+
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() - **nixerizou_nau@outlook.com**
+
 ## The skills
 
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-purple.svg?style=for-the-badge&logo=unrealengine&logoColor=white)&nbsp;
