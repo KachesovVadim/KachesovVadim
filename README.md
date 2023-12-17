@@ -22,10 +22,10 @@ Now I take orders from customers and from the freelance exchange. My **credo** i
 
 💥<img src="https://img.shields.io/badge/UNREAL%20ENGINE-purple" /> 💥
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=Superindustry&theme=jolly)](https://github.com/KachesovVadim/Superindustry) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=UE_TheLabyrinth&theme=jolly)](https://github.com/KachesovVadim/UE_TheLabyrinth) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=Superindustry&theme=synthwave)](https://github.com/KachesovVadim/Superindustry) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=UE_TheLabyrinth&theme=synthwave)](https://github.com/KachesovVadim/UE_TheLabyrinth) |
 | :--: | :--: | 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=UE_Ball&theme=jolly)](https://github.com/KachesovVadim/UE_Ball) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=metahuman_demo&theme=jolly)](https://github.com/KachesovVadim/metahuman_demo) |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=OVERKILL&theme=jolly)](https://github.com/KachesovVadim/OVERKILL) | |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=UE_Ball&theme=synthwave)](https://github.com/KachesovVadim/UE_Ball) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=metahuman_demo&theme=synthwave)](https://github.com/KachesovVadim/metahuman_demo) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=OVERKILL&theme=synthwave)](https://github.com/KachesovVadim/OVERKILL) | |
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=Superindustry&theme=ambient_gradient)](https://github.com/KachesovVadim/Superindustry)
@@ -42,10 +42,11 @@ Now I take orders from customers and from the freelance exchange. My **credo** i
 -->
 
 💢 C++ | C# 💢
-
-- [Tsunamiforce](https://github.com/KachesovVadim/Tsunamiforce)
-- [Avento Gears](https://github.com/KachesovVadim/AventoGears)
+ 
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=Tsunamiforce&theme=omni)](https://github.com/KachesovVadim/Tsunamiforce) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=AventoGears&theme=omni)](https://github.com/KachesovVadim/AventoGears) |
+| :--: | :--: | 
 
 💯 Python 💯
 
-- [Star system simulation](https://github.com/KachesovVadim/Simple_star-system_simuation_python)
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=Simple_star-system_simuation_python&theme=panda)](https://github.com/KachesovVadim/Simple_star-system_simuation_python) | |
+| :--: | :--: | 
