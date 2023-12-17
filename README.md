@@ -1,5 +1,3 @@
-
-
 ### Hey, Bro 👋
 **Welcome to my GitHub profile!** My name is Vadim Káchesov. 😄 I am a programmer from Russia. 
 
@@ -8,6 +6,7 @@ I've been studying programming for **four** years. Freelancing is the best thing
 
 Now I take orders from customers and from the freelance exchange. My **credo** is everything related to **gamedev**. 💯 
 
+![Anim](https://github.com/KachesovVadim/KachesovVadim/assets/142095950/5d47e777-cca2-48ec-b542-af7227bb9030)
 
 ## The skills
 
