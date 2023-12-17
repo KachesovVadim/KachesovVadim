@@ -21,9 +21,9 @@ Now I take orders from customers and from the freelance exchange. My **credo** i
 
 | | |
 | :--: | :--: | 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=Superindustry&theme=ambient_gradient)](https://github.com/KachesovVadim/Superindustry) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=UE_Ball&theme=ambient_gradient)](https://github.com/KachesovVadim/UE_Ball) |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=UE_TheLabyrinth&theme=ambient_gradient)](https://github.com/KachesovVadim/UE_TheLabyrinth) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=metahuman_demo&theme=ambient_gradient)](https://github.com/KachesovVadim/metahuman_demo) |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=OVERKILL&theme=ambient_gradient)](https://github.com/KachesovVadim/OVERKILL) | |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=Superindustry&theme=jolly)](https://github.com/KachesovVadim/Superindustry) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=UE_Ball&theme=jolly)](https://github.com/KachesovVadim/UE_Ball) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=UE_TheLabyrinth&theme=jolly)](https://github.com/KachesovVadim/UE_TheLabyrinth) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=metahuman_demo&theme=jolly)](https://github.com/KachesovVadim/metahuman_demo) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=OVERKILL&theme=jolly)](https://github.com/KachesovVadim/OVERKILL) | |
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=Superindustry&theme=ambient_gradient)](https://github.com/KachesovVadim/Superindustry)
