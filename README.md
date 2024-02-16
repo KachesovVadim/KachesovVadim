@@ -1,6 +1,6 @@
 ![Anim](https://github.com/KachesovVadim/KachesovVadim/assets/142095950/5d47e777-cca2-48ec-b542-af7227bb9030)
 
-### Hey, Bro 👋
+### Wassup, bro 👋
 **Welcome to my GitHub profile!** My name is Vadim Káchesov. 😄 I am a programmer from Russia. 
 
 **In short, about me.**
