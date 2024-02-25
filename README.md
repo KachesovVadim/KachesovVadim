@@ -4,7 +4,7 @@
 **Welcome to my GitHub profile!** My name is Vadim Káchesov. 😄 I am a programmer from Russia. 
 
 **In short, about me.**
-I've been studying programming for **four** years. Freelancing is the best thing for me right now. =)
+I've been studying programming for **five** years. Freelancing is the best thing for me right now. =)
 
 Now I take orders from customers and from the freelance exchange. My **credo** is everything related to **gamedev**. 💯 
 
