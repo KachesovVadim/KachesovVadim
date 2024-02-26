@@ -3,10 +3,9 @@
 ### Wassup, bro 👋
 **Welcome to my GitHub profile!** My name is Vadim Káchesov. 😄 I am a programmer from Russia. 
 
-**In short, about me.**
-I've been studying programming for **five** years. Freelancing is the best thing for me right now. =)
+I have a lot of great experience working on different projects and in various companies.
 
-Now I take orders from customers and from the freelance exchange. My **credo** is everything related to **gamedev**. 💯 
+My **credo** is everything related to **gamedev**, I will not refuse you in helping with development!! 💯 
 
 [![tg](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Jackson_Lighthouse)
 [![fiva](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/kachesov_vadim)
