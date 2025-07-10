@@ -52,5 +52,5 @@ My **credo** is everything related to **gamedev**, I will not refuse you in help
 
 💯 Python 💯
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=Simple_star-system_simuation_python&theme=panda)](https://github.com/KachesovVadim/Simple_star-system_simuation_python) | |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=Simple_star-system_simuation_python&theme=panda)](https://github.com/KachesovVadim/Simple_star-system_simuation_python) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=Rocket_game&theme=panda)](https://github.com/KachesovVadim/Rocket_game) |
 | :--: | :--: | 
