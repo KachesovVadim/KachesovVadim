@@ -1,11 +1,9 @@
 ![Anim](https://github.com/KachesovVadim/KachesovVadim/assets/142095950/5d47e777-cca2-48ec-b542-af7227bb9030)
 
-### Wassup, bro 👋
-**Welcome to my GitHub profile!** My name is Vadim Káchesov. 😄 I am a programmer from Russia. 
+### Hey 👋
+**Welcome to my GitHub profile!** My name is Vadim Káchesov. I am a professional Unreal Engine developer with 6 years of experience across projects in many genres. 
 
-I have a lot of great experience working on different projects and in various companies.
-
-My **credo** is everything related to **gamedev**, I will not refuse you in helping with development!! 💯 
+I can assist you with Blueprints and C++, multiplayer and singleplayer games or help you with pure c++/python.
 
 [![tg](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Jackson_Lighthouse)
 [![fiva](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/kachesov_vadim)
