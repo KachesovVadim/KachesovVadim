@@ -14,7 +14,6 @@ I can assist you with Blueprints and C++, multiplayer and singleplayer games or 
 
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-purple.svg?style=for-the-badge&logo=unrealengine&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++-mediumvioletred.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/c%23-mediumvioletred.svg?style=for-the-badge&logo=c-sharp&logoColor=green)&nbsp;
 ![Python](https://img.shields.io/badge/python-lightseagreen?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 ## Show off
