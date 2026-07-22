@@ -24,10 +24,10 @@ I can assist you with Blueprints and C++, multiplayer and singleplayer games or 
 
 💥<img src="https://img.shields.io/badge/UNREAL%20ENGINE-purple" /> 💥
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=Superindustry&theme=synthwave)](https://github.com/KachesovVadim/Superindustry) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=UE_TheLabyrinth&theme=synthwave)](https://github.com/KachesovVadim/UE_TheLabyrinth) |
+| [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KachesovVadim&repo=Superindustry&theme=synthwave)](https://github.com/KachesovVadim/Superindustry) | [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KachesovVadim&repo=UE_TheLabyrinth&theme=synthwave)](https://github.com/KachesovVadim/UE_TheLabyrinth) |
 | :--: | :--: | 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=UE_Ball&theme=synthwave)](https://github.com/KachesovVadim/UE_Ball) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=metahuman_demo&theme=synthwave)](https://github.com/KachesovVadim/metahuman_demo) |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=OVERKILL&theme=synthwave)](https://github.com/KachesovVadim/OVERKILL) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=UEVirtualCursor&theme=synthwave)](https://github.com/KachesovVadim/UEVirtualCursor) |
+| [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KachesovVadim&repo=UE_Ball&theme=synthwave)](https://github.com/KachesovVadim/UE_Ball) | [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KachesovVadim&repo=metahuman_demo&theme=synthwave)](https://github.com/KachesovVadim/metahuman_demo) |
+| [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KachesovVadim&repo=OVERKILL&theme=synthwave)](https://github.com/KachesovVadim/OVERKILL) | [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KachesovVadim&repo=UEVirtualCursor&theme=synthwave)](https://github.com/KachesovVadim/UEVirtualCursor) |
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=Superindustry&theme=ambient_gradient)](https://github.com/KachesovVadim/Superindustry)
@@ -45,10 +45,10 @@ I can assist you with Blueprints and C++, multiplayer and singleplayer games or 
 
 💢 C++ | C# 💢
  
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=Tsunamiforce&theme=omni)](https://github.com/KachesovVadim/Tsunamiforce) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=AventoGears&theme=omni)](https://github.com/KachesovVadim/AventoGears) |
+| [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KachesovVadim&repo=Tsunamiforce&theme=omni)](https://github.com/KachesovVadim/Tsunamiforce) | [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KachesovVadim&repo=AventoGears&theme=omni)](https://github.com/KachesovVadim/AventoGears) |
 | :--: | :--: | 
 
 💯 Python 💯
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=Simple_star-system_simuation_python&theme=panda)](https://github.com/KachesovVadim/Simple_star-system_simuation_python) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KachesovVadim&repo=Rocket_game&theme=panda)](https://github.com/KachesovVadim/Rocket_game) |
+| [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KachesovVadim&repo=Simple_star-system_simuation_python&theme=panda)](https://github.com/KachesovVadim/Simple_star-system_simuation_python) | [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KachesovVadim&repo=Rocket_game&theme=panda)](https://github.com/KachesovVadim/Rocket_game) |
 | :--: | :--: | 
