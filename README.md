@@ -1,16 +1,42 @@
-## Hi there 👋
+<img width="1344" height="210" alt="291081117-5d47e777-cca2-48ec-b542-af7227bb9030" src="https://github.com/user-attachments/assets/6184873c-b14e-428c-b405-888fc8caa5ec" />
 
-<!--
-**KachesovVadim/KachesovVadim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Привет 👋
+Меня зовут Качесов Вадим. Я Unreal Engine 4/5 Middle разработчик с 3 годами опыта работы в геймдеве над коммерческими проектами и 6 лет занимаюсь программированием в целом. Ключевой программист кооперативного top-down шутера Battle of Decay: Survival. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![tg](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bombardier25)
+[![fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/kachesov_vadim)
+
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() - **kachesov.partner@gmail.com**
+
+##
+
+![Unreal Engine](https://img.shields.io/badge/unrealengine-purple.svg?style=for-the-badge&logo=unrealengine&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/c++-mediumvioletred.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-lightseagreen?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+
+## 
+[![GitHub Streak](https://streak-stats.demolab.com?user=KachesovVadim&theme=ambient-gradient&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+## Проекты
+
+💥<img src="https://img.shields.io/badge/UNREAL%20ENGINE-purple" /> 💥
+
+| [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KachesovVadim&repo=Battle-of-Decay-Survival-PHOTOS&theme=synthwave)](https://github.com/KachesovVadim/Battle-of-Decay-Survival-PHOTOS) | [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KachesovVadim&repo=Majority&theme=synthwave)](https://github.com/KachesovVadim/Majority) |
+| :--: | :--: | 
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KachesovVadim&repo=Superindustry&theme=synthwave)](https://github.com/KachesovVadim/Superindustry) | [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KachesovVadim&repo=UE_Ball&theme=synthwave)](https://github.com/KachesovVadim/UE_Ball) | 
+| [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KachesovVadim&repo=UE_TheLabyrinth&theme=synthwave)](https://github.com/KachesovVadim/UE_TheLabyrinth) | [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KachesovVadim&repo=OVERKILL&theme=synthwave)](https://github.com/KachesovVadim/OVERKILL) | 
+| [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KachesovVadim&repo=UEVirtualCursor&theme=synthwave)](https://github.com/KachesovVadim/UEVirtualCursor) | [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KachesovVadim&repo=metahuman_demo&theme=synthwave)](https://github.com/KachesovVadim/metahuman_demo) |
+
+
+
+💢 C++ | C# 💢
+ 
+| [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KachesovVadim&repo=Tsunamiforce&theme=omni)](https://github.com/KachesovVadim/Tsunamiforce) | [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KachesovVadim&repo=AventoGears&theme=omni)](https://github.com/KachesovVadim/AventoGears) |
+| :--: | :--: | 
+
+💯 Python 💯
+
+| [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KachesovVadim&repo=Simple_star-system_simuation_python&theme=panda)](https://github.com/KachesovVadim/Simple_star-system_simuation_python) | [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KachesovVadim&repo=Rocket_game&theme=panda)](https://github.com/KachesovVadim/Rocket_game) |
+| :--: | :--: | 
